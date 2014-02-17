@@ -1,4 +1,4 @@
 euroMillions_library
 ====================
 
-Python library to get results from euro millions webpage
+Python quick&dirt class  to get results from euro millions webpage
